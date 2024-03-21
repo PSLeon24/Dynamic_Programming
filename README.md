@@ -1,6 +1,6 @@
 ## Introduction
-- This repository is the place to take some notes with learning Dynamic Programming.
-- This repository is included learning resources, major concept, some codes.
+- This repository serves as a hub for learning and sharing knowledge about dynamic programming. It is a space to explore and discuss interesting resources, tips, and code examples related to dynamic programming, with the goal of fostering a deeper understanding of the subject and improving problem-solving skills.
+
 
 ## Video resources
 - 01 - Course Introduction (Dynamic Programming for Beginners)
