@@ -1,6 +1,10 @@
 ## Introduction
 - This repository serves as a hub for learning and sharing knowledge about dynamic programming. It is a space to explore and discuss interesting resources, tips, and code examples related to dynamic programming, with the goal of fostering a deeper understanding of the subject and improving problem-solving skills.
 
+## Dynamic Programming
+- Properties
+  - optimal substructure
+  - overlapping subproblems
 
 ## Video resources
 - 01 - Course Introduction (Dynamic Programming for Beginners)
